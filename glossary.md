@@ -2,6 +2,7 @@
 
 ## Unix Terminal Glossary
 
+
 - cd (change directory)
 
   `cd myblog` to go into the myblog folder
